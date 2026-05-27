@@ -1,6 +1,6 @@
 # Coffee Shop Database Design and Implementation
 
-Final project for the IBM Coursera course **Databases and SQL for Data Science with Python**.
+Final project for the IBM Coursera course **Introduction to Relational Databases (RDBMS)**.
 
 ## Scenario
 
